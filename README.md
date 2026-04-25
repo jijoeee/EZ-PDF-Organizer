@@ -1,6 +1,11 @@
 # EZ PDF Organizer
 
-EZ PDF Organizer is a modern, fast, and 100% offline desktop application designed to make managing PDF files effortless. Built by AutoKerja, it features a sleek drag-and-drop interface and visual page management, ensuring your sensitive documents never leave your local machine.
+EZ PDF Organizer is a modern, fast, and 100% offline desktop application designed to make managing PDF files effortless. Inspired by ilovePDF website and built for AutoKerja product, it features a sleek drag-and-drop interface and visual page management, ensuring your sensitive documents never leave your local machine.
+
+<img width="2000" height="1543" alt="image" src="https://github.com/user-attachments/assets/fd636787-84bc-45a4-8a07-96da53ff692e" />
+
+<img width="2000" height="1548" alt="image" src="https://github.com/user-attachments/assets/982bc55b-5981-4d7a-a8af-43c434c09d85" />
+
 
 ## Features
 
@@ -18,7 +23,7 @@ EZ PDF Organizer is a modern, fast, and 100% offline desktop application designe
 ## Installation
 
 **1. Clone the repository:**
-git clone https://github.com/YOUR_USERNAME/ez-pdf-organizer.git
+git clone https://github.com/jijoeee/EZ-PDF-Organizer.git
 cd ez-pdf-organizer
 
 **2. Install dependencies:**
