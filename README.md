@@ -1,4 +1,8 @@
 # EZ PDF Organizer
+![Version](https://img.shields.io/badge/version-1.0-blue.svg)
+![Python](https://img.shields.io/badge/python-3.8%2B-green.svg)
+![Platform](https://img.shields.io/badge/platform-Windows-lightgrey.svg)
+
 EZ PDF Organizer is a modern, fast, and 100% offline desktop application designed to make managing PDF files effortless. Inspired by ilovePDF website and built for AutoKerja product, it features a sleek drag-and-drop interface and visual page management, ensuring your sensitive documents never leave your local machine.
 
 <img width="2293" height="1543" alt="image" src="https://github.com/user-attachments/assets/fd636787-84bc-45a4-8a07-96da53ff692e" />
