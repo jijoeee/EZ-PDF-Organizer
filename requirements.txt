@@ -1,0 +1,4 @@
+customtkinter
+PyMuPDF
+Pillow
+tkinterdnd2
