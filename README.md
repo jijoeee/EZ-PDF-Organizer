@@ -26,8 +26,7 @@ EZ PDF Organizer is a modern, fast, and 100% offline desktop application designe
 ## Installation
 
 **1. Clone the repository:**
-git clone https://github.com/jijoeee/EZ-PDF-Organizer.git
-cd ez-pdf-organizer
+'git clone https://github.com/jijoeee/EZ-PDF-Organizer.git' then 'cd ez-pdf-organizer'
 
 **2. Install dependencies:**
 Make sure you have Python installed. Then, install the required libraries using pip:
