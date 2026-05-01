@@ -9,6 +9,7 @@ import fitz  # PyMuPDF
 from PIL import Image, ImageTk
 from tkinterdnd2 import TkinterDnD, DND_FILES
 
+# internal version 1.5
 # ==========================================
 # 1. CORE UTILITY FUNCTIONS
 # ==========================================
@@ -454,7 +455,7 @@ class PDFCardGrid(ctk.CTkScrollableFrame):
             card_copy = ctk.CTkFrame(self.drag_window, width=160, height=240, fg_color="#FFFFFF")
             card_copy.pack()
             if self.items[self.drag_item].get('thumb'):
-                tk.Label(card_copy, image=self.items[self.drag_item]['thumb'], bg="white").place(relx=0.5, rely=0.45, anchor="center")
+                ctk.CTkLabel(card_copy, image=self.items[self.drag_item]['thumb'], text="", fg_color="transparent").place(relx=0.5, rely=0.45, anchor="center")
         
         x, y = event.x_root - 80, event.y_root - 110
         self.drag_window.geometry(f"160x240+{x}+{y}")
